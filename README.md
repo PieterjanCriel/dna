@@ -2,5 +2,5 @@
 
 ### Deep Neural Axioms
 
-Deep Neural Axioms (DNA) is deep learning of axioms using tensorflow.  
-It is inspired by the concept of [fuzzy relations](https://www.diva-portal.org/smash/get/diva2:832500/FULLTEXT01.pdf).  
+Deep Neural Axioms (DNA) is deep learning of axioms using TensorFlow and the  
+goal is to close the gap between a learned model and an axiomatic expression.  
